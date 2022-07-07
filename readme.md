@@ -16,7 +16,7 @@ django: 4.0.3
 В виртуальное окружение venv клонируем репозиторий:  
 git clone https://github.com/aerastov/SkillFactory_F4.git  
 
-Затем инсталлируем необходимые для работы проекта пакеты:
+Затем инсталлируем необходимые для работы проекта пакеты:  
 pip install djangorestframework  
 pip install django-cors-headers  
 pip install coreapi pyyaml  
