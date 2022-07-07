@@ -76,8 +76,11 @@ a {
     transition: 0.3s;
 }
 body {
+	background-image: url('../media/coover1.jpg');
+	background-position-x: left;
+	background-size: 100%;
+	background-repeat: no-repeat;
 
-	background: no-repeat center/2200px url("../media/coover.jpg");
 }
 .recipe {
     padding: 15px 45px;

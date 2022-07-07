@@ -25,9 +25,11 @@ function Category() {
     return (
         <div>
             <h1>{category}:</h1>
-            {dishes.map((name) => (
-            <p key={name.id}><a className="r" href={`/recipe/${name.id}`}>{name.name}</a></p>
-            ))}
+            <div className='recipe'>
+                {dishes.map((name) => (
+                <p key={name.id}><a className="r" href={`/recipe/${name.id}`}>{name.name}</a></p>
+                ))}
+            </div>
         </div>
     );
 };
