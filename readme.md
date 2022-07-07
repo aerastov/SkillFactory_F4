@@ -41,7 +41,10 @@ http://127.0.0.1:8000/api/recipe/<id> - Рецепт блюда <id>
 Восстановить модули: `npm install`   
 Запуск СЕРВЕРА DevServer: `npm start`  
 
-
+Автор проекта: **Ерастов Алексей Сергеевич**  
+e-mail: a.erastov@gmail.com  
+Группа SkillFactory: FPW-36  **
+Москва, 07.07.2022г.
   
 
 
